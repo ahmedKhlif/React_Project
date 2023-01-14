@@ -1,0 +1,41 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "gamen": " Grand Theft Auto: San Andreas",
+      "type": "advertisement",
+      "devlp": " developed by Rockstar North",
+      "prixVente": 30,
+      "imageartpetitf": "https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/global/games/fob/640/sanandreas.jpg",
+      "days": "10 years"
+    },
+    {
+      "id": 2,
+      "gamen": "league of legends",
+      "type": "tactical ",
+      "devlp": " developed by riot games",
+      "prixVente": 0,
+      "imageartpetitf": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_LeagueofLegends_RiotGames_S2_1200x1600-7fd64f0f7b674900bdd172967865d545",
+      "days": "5 years"
+    },
+    {
+      "id": 3,
+      "gamen": "Rocket league",
+      "type": "Sports video game",
+      "devlp": " developed by Psyonix",
+      "prixVente": 0,
+      "imageartpetitf": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg",
+      "days": "2 years"
+    }
+  ],
+  "clients": [
+    {
+      "nom": "BEN SOLTANA",
+      "requir": "gtx 1650",
+      "typee": "horror",
+      "numserie": "120",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+      "id": 1
+    }
+  ]
+}
